@@ -2,7 +2,7 @@
 
 > 一本關於Zig語言和工具鏈的書
 
-[<img src="https://ziglang.org/zig-logo-light.svg" align="right" width="100">](https://ziglang.org)
+[<img src="https://ziglang.org/zig-logo-light.svg" align="right" width="100">](https://ziglang.org#gh-dark-mode-only)[<img src="https://ziglang.org/zig-logo-dark.svg" align="right" width="100">](https://ziglang.org#gh-light-mode-only)
 
 ZigBook將成為一個全面的Zig教程，包括算法實現
 
